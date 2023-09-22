@@ -1,0 +1,12 @@
+{
+  "name": "element-plus-admin-dialog",
+  "version": "1.0.0",
+  "description": "`useAdminDialog` 是一个用于在 Vue 3 和 Element Plus 项目中创建对话框的实用工具插件。**可以函数化导入dialog组件**，合理清晰安排项目结构以及代码；\r 你可以灵活组织代码为下面的样子,而不是把所有业务逻辑都放入一个VUE文件中：",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
